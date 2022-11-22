@@ -5,8 +5,8 @@
     
     <entry>
       <title>Hexo快速入门</title>
-      <link href="/_posts/Hexo.html"/>
-      <url>/_posts/Hexo.html</url>
+      <link href="//Hexo.html"/>
+      <url>//Hexo.html</url>
       
         <content type="html"><![CDATA[<h1 id="Hexo-简介"><a href="#Hexo-简介" class="headerlink" title="Hexo 简介"></a>Hexo 简介</h1><p>快速、简洁且高效的博客框架</p><h1 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h1><p>适用于windows系统<br>(开始前请自行安装好Git、Nodejs并配置好环境变量)</p><p><a href="https://blog.csdn.net/mukes/article/details/115693833">Git安装教程</a></p><p><a href="https://nodejs.org/en/download/">Nodejs安装链接</a> (选择适合自己的版本)</p><p><a href="https://blog.csdn.net/yaorongke/article/details/119084295">Nodejs环境变量配置教程</a></p><h3 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h3><p>1.在cmd黑窗口输入以下命令安装</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm config <span class="built_in">set</span> registry https://registry.npm.taobao.org //换源,避免下载太慢,有魔法可不使用</span><br><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><p>2.安装完成后输入<strong>hexo -v</strong>验证是否成功(有版本信息证明安装成功)</p><h3 id="初始化Hexo项目并运行"><a href="#初始化Hexo项目并运行" class="headerlink" title="初始化Hexo项目并运行"></a>初始化Hexo项目并运行</h3><p>1.在你想存放博客的路径如(D:\Hexo-Blog) 打开<font color="red"> cmd </font>黑窗口，输入<font color="red"> hexo init blog </font>初始化(blog是自定义名称，可自行更改)<br>2.进入 <font color="red"> blog </font> ，输入 npm i 安装相关依赖</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> blog //进入blog文件夹</span><br><span class="line">npm i</span><br></pre></td></tr></table></figure><p>3.在<font color="red"> cmd </font>黑窗口输入<font color="red">  hexo server</font> 或者 <font color="red"> hexo s </font> 启动项目<br>4.在浏览器输入<a href="http://localhost:4000/">http://localhost:4000/</a> 回车,即可以看到本地生成的静态博客了<br>5.若觉得主题不好看,可自行去<a href="https://hexo.io/themes/">Hexo</a>选择喜欢的主题并下载到blog&#x2F;node_modules&#x2F;(你刚下载的主题),在bolg&#x2F;_config.yml更改theme值</p><h3 id="将代码部署到-GitHub（Hexo-三连）"><a href="#将代码部署到-GitHub（Hexo-三连）" class="headerlink" title="将代码部署到 GitHub（Hexo 三连）"></a>将代码部署到 GitHub（Hexo 三连）</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
       
@@ -32,8 +32,8 @@
     
     <entry>
       <title>测试博客</title>
-      <link href="/_posts/Test.html"/>
-      <url>/_posts/Test.html</url>
+      <link href="//Test.html"/>
+      <url>//Test.html</url>
       
         <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2><p><img src="/img/1.png" alt="avatar"></p>]]></content>
       
