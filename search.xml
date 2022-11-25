@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>使用idm加速下载百度网盘及其他文件</title>
+      <link href="//idm.html"/>
+      <url>//idm.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="为什么要使用idm下载百度网盘"><a href="#为什么要使用idm下载百度网盘" class="headerlink" title="为什么要使用idm下载百度网盘"></a>为什么要使用idm下载百度网盘</h2><p><del>百度网盘罪孽深重，不开会员，下载速度像一坨💩</del>;<br>作为大学牲，每学期实验多如牛毛，每门实验课都要求下载不同实验软件;<br>而很大一部分软件都是非常大的(像Matlab)，然后<del>贫穷的</del>大学生又买不起正版;<br>经常用的都是破解版，大部分破解版都是通过百度网盘分享的，它的下载速度(不开会员)<br>让人想<del>紫砂</del></p><h2 id="idm-简介"><a href="#idm-简介" class="headerlink" title="idm 简介"></a>idm 简介</h2><p>宇宙最强下载神器，可提高五倍下载速度<br>资料来源:<a href="https://zh.m.wikipedia.org/zh-sg/Internet_Download_Manager">点这</a></p><h2 id="下载idm"><a href="#下载idm" class="headerlink" title="下载idm"></a>下载idm</h2><p>1.点击<a href="https://wwu.lanzouv.com/iR4YI0gv8xsh">这里</a>下载idm安装包及<font color="red"> 注册机 </font>(注册机在rar压缩包内)<br>2.下载完成后解压，运行<font color="red"> idman641build3.exe </font><br><img src="/img/idm/1.png" alt="avatar">  </p><h3 id="激活idm"><a href="#激活idm" class="headerlink" title="激活idm"></a>激活idm</h3><p><font color="red">关闭杀毒软件</font>，补丁是无毒的，但是杀毒软件会删除破解补丁<br>一路安装即可，安装完软件，<font color="red">不要启动！！！</font><br>解压<font color="red">IDM_6.4x_v18.1.rar</font>到idm安装目录<br>右键以管理员身份运行<font color="red">IDM_6.4x_Crack_v18.1.exe</font> ,执行<br>弹窗出来点击<font color="red">crack</font>，等它执行完会提示done！<br>此时，idm破解完成<br><img src="/img/idm/2.png" alt="avatar"><br>打开idm看注册情况，显示已注册则证明破解成功，破解完成后;<br><img src="/img/idm/3.png" alt="avatar">  </p><h4 id="配置idm用户代理设置"><a href="#配置idm用户代理设置" class="headerlink" title="配置idm用户代理设置"></a>配置idm用户代理设置</h4><p>点击idm的选项–<strong>常规</strong>按图片配置<br><strong>保存</strong>地址可自行选择<br><img src="/img/idm/14.png" alt="avatar"><img src="/img/idm/16.png" alt="avatar"><br><img src="/img/idm/15.png" alt="avatar"><br><strong>下载项</strong>用户代理(UA)修改成<strong>netdisk;PC</strong><br><img src="/img/idm/17.png" alt="avatar"><br><strong>保存至</strong>可自行修改保存地址<br><strong>连接</strong>改为<strong>4</strong><br><img src="/img/idm/18.png" alt="avatar"><br>改完确认即可<br>切记不要升级更新idm!!!<br>切记不要升级更新idm!!!<br>切记不要升级更新idm!!!</p><h3 id="配置油猴脚本"><a href="#配置油猴脚本" class="headerlink" title="配置油猴脚本"></a>配置油猴脚本</h3><p>打开浏览器(Google、Edge)都可以，<del>我习惯用Google了，就用Google来演示了</del><br>在右上角点击<font color="red">拓展程序</font>–<font color="red">管理拓展程序</font><br>点击左上角<font color="red">三</font>，再点击<font color="red">打开Chrome应用商店</font><br><img src="/img/idm/4.png" alt="avatar">    <img src="/img/idm/5.png" alt="avatar"><br><img src="/img/idm/6.png" alt="avatar"><br>搜索<font color="red">Tampermonkey</font>点击<font color="red">添加到Chrome即可</font><br><img src="/img/idm/7.png" alt="avatar"><img src="/img/idm/8.png" alt="avatar"><br>添加完成后，点击右上角<font color="red">拓展程序</font>，再点击Tampermonkey，如果没启用点击启用即可<br><img src="/img/idm/9.png" alt="avatar"><img src="/img/idm/10.png" alt="avatar"><br>启用完成后，点击<a href="https://greasyfork.org/zh-CN">这里</a>搜索脚本<br>搜索<strong>软件小妹</strong>，安装<strong>百度网盘简易下载助手（直链下载复活版）</strong><br><img src="/img/idm/11.png" alt="avatar"><img src="/img/idm/12.png" alt="avatar"><br><img src="/img/idm/13.png" alt="avatar"><br>到此你已经完成所有配置了</p><h3 id="下载百度网盘文件"><a href="#下载百度网盘文件" class="headerlink" title="下载百度网盘文件"></a>下载百度网盘文件</h3><p>打开<a href="https://pan.baidu.com/">百度网盘网页版</a>,登陆账号，保存你要下载的百度网盘文件到你的网盘<br>进入你的网盘文件，选择你要下载的文件，点击<strong>简易下载助手</strong>–<strong>点击获取直链地址</strong><br>可能需要关注公众号之类的，弄完获取到<strong>直链</strong><br><img src="/img/idm/19.png" alt="avatar"><br>复制<strong>直链链接</strong>到idm；点左上角的<strong>新建任务</strong>，填入你刚刚复制的链接<br>确认即可下载<br>以电磁波软件下载为例它的<a href="http://allall02.baidupcs.com/file/351b75285sa0f8f42219deb5de34666d?bkt=en-cf7b18a7c51d9078a703151a1f8c8399c1faaa8ba43d229bcf5aaa4bec1cb085510a58d446aa7a2d&fid=1463854661-250528-656561059544767&time=1669375690&sign=FDTAXUbGERQlBHSKfWaqi-DCb740ccc5511e5e8fedcff06b081203-g4XFvtvKw5HPxQR+QWflwiPtIcc=&to=19&size=936078546&sta_dx=936078546&sta_cs=6&sta_ft=zip&sta_ct=5&sta_mt=0&fm2=MH,Yangquan,Anywhere,,%E5%B9%BF%E4%B8%9C,ct&ctime=1661229031&mtime=1669375689&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=936078546&vuk=1463854661&iv=2&htype=&randtype=&tkbind_id=0&esl=1&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-dbf761a04a9486991d87dc0c0c282cc5b668dd16df361da1b2c6106d7a1dc5834343610e0d96789b&expires=8h&rt=pr&r=750404714&vbdid=-&fin=x64_lite.zip&bflag=217,19-19&err_ver=1.0&check_blue=1&rtype=1&devuid=BDIMXV2-O_CEC11A46457949F6B255531E7107909A-C_0-D_0-M_525400A3696C-V_0E564ACA&clienttype=8&channel=00000000000000000000000000000000&dp-logid=8778982196166699853&dp-callid=0.1&tsl=0&csl=0&fsl=-1&csign=pCu2THjNPbf/jaVVjH4EypEdR/w=&so=1&ut=1&uter=1&serv=0&uc=1833802818&ti=05df9239daa40647e1fcf58ebcfdb2128289afed3764b363&hflag=30&from_type=3&adg=c_ad481a4b0284a2c873654e8d1dcddb46&reqlabel=250528_l_c46f8690ae504f19dbf0fd64a218def3_-1_e7ca347ebb08fbf768aa9f5ae7c6f0fa&ibp=1&by=themis">直链</a>添加下载得速度如图<br><img src="/img/idm/20.png" alt="avatar"><br>下载油管视频速度也可以<br><img src="/img/idm/21.png" alt="avatar">  </p><h4 id="Enjoy-it-！！！"><a href="#Enjoy-it-！！！" class="headerlink" title="Enjoy it ！！！"></a>Enjoy it ！！！</h4>]]></content>
+      
+      
+      <categories>
+          
+          <category> network </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> idm </tag>
+            
+            <tag> network </tag>
+            
+            <tag> 百度网盘 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>校园网ipv6免流</title>
       <link href="//ipv6.html"/>
       <url>//ipv6.html</url>
@@ -64,7 +93,7 @@
       <link href="//Test.html"/>
       <url>//Test.html</url>
       
-        <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2><p><img src="/img/1.png" alt="avatar"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是一篇测试博客"><a href="#这是一篇测试博客" class="headerlink" title="这是一篇测试博客"></a>这是一篇测试博客</h2><p><img src="/img/%E6%B5%8B%E8%AF%95/1.png" alt="avatar"></p>]]></content>
       
       
       
