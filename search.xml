@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>力扣每日一题</title>
+      <link href="//543989307.html"/>
+      <url>//543989307.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>因为疫情原因，博主早早就回家了，期末考试也延迟到下学期，实在是没事啥事情做了(无聊.jpg<br>然后目前在学习Python和C++，本文作为本蒟蒻的学习笔记，<del>大佬勿喷</del>(害怕.jpg</p><h2 id="2022年12月7日"><a href="#2022年12月7日" class="headerlink" title="2022年12月7日"></a>2022年12月7日</h2><ul><li><a href="https://leetcode.cn/problems/two-sum/">1.两数之和 </a></li></ul><h3 id="解题思路"><a href="#解题思路" class="headerlink" title="解题思路"></a>解题思路</h3><p>给出一个字典作为哈希表，target对每个元素进行相减，如果相减的值在哈希表的索引中，返回这个对应的value<br>和此时被减数的索引；不在的话把被减数作为索引存入哈希表中，并赋值它对应的索引</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span>:</span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">twoSum</span>(<span class="params">self, nums: <span class="type">List</span>[<span class="built_in">int</span>], target: <span class="built_in">int</span></span>) -&gt; <span class="type">List</span>[<span class="built_in">int</span>]:</span><br><span class="line">        hashtable = &#123;&#125;</span><br><span class="line">        <span class="keyword">for</span> i, value <span class="keyword">in</span> <span class="built_in">enumerate</span>(nums):</span><br><span class="line">            <span class="keyword">if</span> target - value <span class="keyword">in</span> hashtable.keys():</span><br><span class="line">                <span class="keyword">return</span> [hashtable[target - value], i]</span><br><span class="line">            <span class="keyword">else</span>:</span><br><span class="line">                hashtable[nums[i]] = i</span><br></pre></td></tr></table></figure><p><img src="/img/%E5%8A%9B%E6%89%A3/2022.12.7.png" alt="avatar"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>使用idm加速下载百度网盘及其他文件</title>
       <link href="//idm.html"/>
       <url>//idm.html</url>
