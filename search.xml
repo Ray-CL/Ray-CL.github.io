@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Python的一些打包技巧</title>
+      <link href="//971401278.html"/>
+      <url>//971401278.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="Python的exe打包"><a href="#Python的exe打包" class="headerlink" title="Python的exe打包"></a>Python的exe打包</h2><h3 id="安装Pyinstaller"><a href="#安装Pyinstaller" class="headerlink" title="安装Pyinstaller"></a>安装Pyinstaller</h3><p>Python终端安装Pyinstaller</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip3 install Pyinstaller</span><br></pre></td></tr></table></figure><h3 id="进行exe打包"><a href="#进行exe打包" class="headerlink" title="进行exe打包"></a>进行exe打包</h3><p>pushd到py文件的路径进行打包<br><img src="/img/Python%E7%9A%84exe%E6%89%93%E5%8C%85/1.png" alt="avatar"><br><img src="/img/Python%E7%9A%84exe%E6%89%93%E5%8C%85/2.png" alt="avatar"><br>生成可执行文件 -F (执行有窗口输入,比如input,stdin)</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Pyinstaller -F xxx.py</span><br></pre></td></tr></table></figure><p>生成可执行文件 -F -w (执行无窗口输入)</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Pyinstaller -F -w xxx.py</span><br></pre></td></tr></table></figure><p>生成可执行文件 -F -w -i (xxx.ico是替换你的程序图标)</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Pyinstaller -F -w -i xxx.ico xxx.py</span><br></pre></td></tr></table></figure><p>打包成功后是这个样子<br><img src="/img/Python%E7%9A%84exe%E6%89%93%E5%8C%85/3.png" alt="avatar"><br>打包完后,源文件路径会出现一个dist文件夹,存放着打包好的exe文件以及一个spec文件<br><img src="/img/Python%E7%9A%84exe%E6%89%93%E5%8C%85/4.png" alt="avatar"><br>比如博主打包的是一个简单的英文单词查询脚本,打包后使用如图所示<br><img src="/img/Python%E7%9A%84exe%E6%89%93%E5%8C%85/5.png" alt="avatar"><br><img src="/img/Python%E7%9A%84exe%E6%89%93%E5%8C%85/6.png" alt="avatar"> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>力扣每日一题</title>
       <link href="//543989307.html"/>
       <url>//543989307.html</url>
